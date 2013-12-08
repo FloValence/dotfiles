@@ -1,0 +1,3 @@
+# Prompt
+
+PS1='\n\u dans \w\n👉 '

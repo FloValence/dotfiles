@@ -1,0 +1,12 @@
+# Alias
+
+alias l='ls -a'
+
+alias desk='cd ~/Desktop'
+
+alias sites='cd ~/Sites'
+
+take () {
+	mkdir $1
+	cd $1
+}

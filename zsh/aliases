@@ -1,0 +1,5 @@
+# Aliases
+
+alias desk='cd ~/Desktop'
+
+alias sites='cd ~/Sites'
