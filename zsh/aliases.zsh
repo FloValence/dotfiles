@@ -4,4 +4,4 @@ alias desk='cd ~/Desktop'
 
 alias sites='cd ~/Sites'
 
-alias dotfiles='cd ~/bin/Dotfiles'
+alias dotfiles='cd ~/Dotfiles/FloValence/Dotfiles'

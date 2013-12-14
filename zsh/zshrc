@@ -46,6 +46,13 @@ plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 
+# Perso aliases 
+source ~/dotfiles/flovalence/dotfiles/zsh/aliases.zsh
+
+#Perso Functions
+source ~/dotfiles/flovalence/dotfiles/zsh/functions.zsh
+
+
 # Customize to your needs...
 export PATH=$PATH:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local/git/bin:/Users/fantlo/.rvm/bin
 
