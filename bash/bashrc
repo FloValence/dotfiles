@@ -1,5 +1,5 @@
 # my bashrc file
 
-source ~/bin/dotfiles/bash/env
-source ~/bin/dotfiles/bash/alias
-source ~/bin/dotfiles/bash/prompt
+source ~/.dotfiles/flovalence/dotfiles/bash/env
+source ~/.dotfiles/flovalence/dotfiles/bash/alias
+source ~/.dotfiles/flovalence/dotfiles/bash/prompt
