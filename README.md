@@ -1,4 +1,8 @@
-dotfiles
+Flo's Dotfiles
 ========
 
-My dotfiles
+My own dotfiles
+
+*Note that i'm based on oh-my-zsh*
+
+
