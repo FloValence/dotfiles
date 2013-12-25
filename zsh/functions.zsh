@@ -1,4 +1,13 @@
-server='python -m SimpleHTTPServer 8000'
+# lancer un serveur au port $ et ouvrir
+serve_old () {
+  open http://localhost:$1
+  python -m SimpleHTTPServer $1
+}
+
+function serve() {
+    local port="${1:-8000}"
+    open "http://localhost:${port}/" && python -m SimpleHTTPServer "$port"
+}
 
 alias reload!='. ~/.zshrc'
 
