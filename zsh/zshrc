@@ -45,6 +45,8 @@ ZSH_THEME="flovalence"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 plugins=(git)
+# git aliases
+source ~/dotfiles/flovalence/dotfiles/git/aliases.zsh
 
 source $ZSH/oh-my-zsh.sh
 
